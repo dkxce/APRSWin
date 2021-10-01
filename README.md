@@ -6,4 +6,5 @@ Simple APRS-IS Client (Map View)
 APRS серверу, используя CALLSIGN, пароль и фильтр, и отображает
 полученные пакеты в логе и объйкты с координатами на карте. 
 
+<img src="window1.png"/>
 <img src="window.png"/>
