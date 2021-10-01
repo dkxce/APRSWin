@@ -1,6 +1,6 @@
 # APRSWin
 
-Simple APRS-IS Client (Map View)
+Simple APRS (APRS-IS / AGWPE / KISS (TNC)) Client (Map View)
 
 Это простой APRS-IS клиент, который подключается к удаленному
 APRS серверу, используя CALLSIGN, пароль и фильтр, и отображает
